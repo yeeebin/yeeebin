@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## univ 
+**영남대학교**
+컴퓨터학부 소프트웨어융합학부
+
+## grade
+*2*
+
+## class
+- 자료구조
+- 오픈소스SW의이해
+- 컴퓨터네트워크
+- 시스템프로그래밍및보안
+- 인공지능기초
+- C
+
+## study
+1. python
+2. C
+3. java
+
+Taht is so funny! :joy:
+
+---
